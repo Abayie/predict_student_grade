@@ -29,7 +29,7 @@ You can run this code locally with a few easy steps.
 1. Clone the repository
 
 ```bash
-https://github.com/kuleafenu/predicting-students-future-grades.git
+https://github.com/Abayie/predict_student_grade.git
 ```
 
 2. Install dependencies
