@@ -1,4 +1,4 @@
-Liked it? Please give a ⭐️ to build this 💪 stronger.
+
 # 👋 Introduction
 <p align="center">
     <a href="https://tryshape.vercel.app" target="blank"/>
@@ -7,11 +7,6 @@ Liked it? Please give a ⭐️ to build this 💪 stronger.
 </p>
 
 `Project Goal`: Predicting student academic grades with python.
-
-# 💻 Published on medium
-Please read all the insights from my medium page.
-> [Predicting student academic grades with python](https://medium.com/analytics-vidhya/what-i-discovered-after-analyzing-10-000-medium-posts-with-python-bb012c6e004b)  
-> [Predicting student academic grades with python](https://lucidsquad.medium.com/predicting-student-academic-grades-with-python-dac5499602e1)
 
 
 # 🔥 What you will learn
